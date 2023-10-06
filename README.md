@@ -7,26 +7,25 @@
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
-## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+Le TP sur Jupyter Lite et autres éditeurs: 
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+catie-aq/Peac2h-rating/blob/main/tps/
+catie-aq/jupyterlite-tp/blob/main/content/
 
-## Requirements
+[![repo][repo]][repo]   
 
-JupyterLite is being tested against modern web browsers:
 
-- Firefox 90+
-- Chromium 89+
+https://catie-aq.github.io/jupyterlite-tp/lab?path=dames.ipynb
 
-## Deploy your JupyterLite website on GitHub Pages
+* Préparation TP: https://catie-aq.github.io/jupyterlite-tp/lab?path=dames.ipynb <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/dames.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.dev/catie-aq/Peac2h-rating/tps/dames.ipynb)
+* TP - Partie 1: <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-cotation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.dev/catie-aq/Peac2h-rating/tps/tp2-cotation.ipynb)
+* TP - Partie 2: <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-temps-reaction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.dev/catie-aq/Peac2h-rating/tps/tp2-temps-reaction.ipynb)
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html

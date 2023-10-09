@@ -19,21 +19,14 @@ Le TP sur Jupyter Lite et autres éditeurs: 
 ## Liens
 
 * Préparation TP:  <a target="_blank" href="https://catie-aq.github.io/jupyterlite-tp/lab?path=dames.ipynb">
-<img src="https://img.shields.io/badge/run-Jupyter-blue"> 
-<a>
- <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/dames.ipynb">
+<img src="https://img.shields.io/badge/run-Jupyter-blue"> </a>  <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/dames.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.dev/catie-aq/jupyterlite-tp/content/dames.ipynb)
+ </a> <a href="https://github.dev/catie-aq/jupyterlite-tp/content/dames.ipynb">   <img src="https://img.shields.io/badge/run-Github-teal"> </a>
 * TP - Partie 1: <a target="_blank" href="https://catie-aq.github.io/jupyterlite-tp/lab?path=tp2-cotation.ipynb">
-<img src="https://img.shields.io/badge/run-Jupyter-blue"> 
-<a>
-<a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-cotation.ipynb">
+<img src="https://img.shields.io/badge/run-Jupyter-blue"> <a> <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-cotation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.dev/catie-aq/jupyterlite-tp/content/tp2-cotation.ipynb)
-* TP - Partie 2: <a target="_blank" href="https://catie-aq.github.io/jupyterlite-tp/lab?path=tp2-temps-reaction.ipynb">
-<img src="https://img.shields.io/badge/run-Jupyter-blue"> 
-<a><a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-temps-reaction.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.dev/catie-aq/jupyterlite-tp/content/tp2-temps-reaction.ipynb)
+</a> <a href="https://github.dev/catie-aq/jupyterlite-tp/content/tp2-cotation.ipynb"> <img src="https://img.shields.io/badge/run-Github-teal"> </a> 
+* TP - Partie 2: <a target="_blank" href="https://catie-aq.github.io/jupyterlite-tp/lab?path=tp2-temps-reaction.ipynb"> <img src="https://img.shields.io/badge/run-Jupyter-blue"> 
+</a> <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-temps-reaction.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <a href="https://github.dev/catie-aq/jupyterlite-tp/content/tp2-temps-reaction.ipynb"> <img src="https://img.shields.io/badge/run-Github-teal"> </a>
 
 

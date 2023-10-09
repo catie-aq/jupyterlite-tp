@@ -1,20 +1,14 @@
 # JupyterLite at CATIE
 
-
-
-
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
 
 Le TP sur Jupyter Lite et autres éditeurs: 
 
 * <img src="https://img.shields.io/badge/run-Jupyter-blue"> TP en navigateur. Enregistrement dans browser.
 * <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> TP dans le cloud Google. Enregistrement dans Google drive. 
-* [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.dev/catie-aq/jupyterlite-tp/content/dames.ipynb) TP dans VSCode en browser via Github. Enregistrement en browser puis en tant commits / branches.
-
-
+* <img src="https://img.shields.io/badge/run-Github-teal"> TP dans VSCode en browser via Github. Enregistrement en browser puis en tant commits / branches.
 
 ## Liens
 

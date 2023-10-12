@@ -24,3 +24,16 @@ Le TP sur Jupyter Lite et autres éditeurs: 
 </a> <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-temps-reaction.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <a href="https://github.dev/catie-aq/jupyterlite-tp/content/tp2-temps-reaction.ipynb"> <img src="https://img.shields.io/badge/run-Github-teal"> </a>
 
 
+### Corrigés 
+
+* Préparation TP:  <a target="_blank" href="https://catie-aq.github.io/jupyterlite-tp/lab?path=dames-solution.ipynb">
+<img src="https://img.shields.io/badge/run-Jupyter-blue"> </a>  <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/dames-solution.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+ </a> <a href="https://github.dev/catie-aq/jupyterlite-tp/content/dames-solution.ipynb">   <img src="https://img.shields.io/badge/run-Github-teal"> </a>
+* TP - Partie 1: <a target="_blank" href="https://catie-aq.github.io/jupyterlite-tp/lab?path=tp2-cotation-corrige.ipynb">
+<img src="https://img.shields.io/badge/run-Jupyter-blue"> <a> <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-cotation-corrige.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> <a href="https://github.dev/catie-aq/jupyterlite-tp/content/tp2-cotation-corrige.ipynb"> <img src="https://img.shields.io/badge/run-Github-teal"> </a> 
+* TP - Partie 2: <a target="_blank" href="https://catie-aq.github.io/jupyterlite-tp/lab?path=tp2-temps-reaction-corrige.ipynb"> <img src="https://img.shields.io/badge/run-Jupyter-blue"> 
+</a> <a target="_blank" href="https://colab.research.google.com/github/catie-aq/jupyterlite-tp/blob/main/content/tp2-temps-reaction-corrige.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> <a href="https://github.dev/catie-aq/jupyterlite-tp/content/tp2-temps-reaction-corrige.ipynb"> <img src="https://img.shields.io/badge/run-Github-teal"> </a>
+
